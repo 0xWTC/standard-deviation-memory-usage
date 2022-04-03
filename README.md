@@ -22,4 +22,5 @@ Standard deviation is a measure of how far a set of numbers are spread out.
 
 ## Output screenshot
 
-![Screenshot of a sample outpue](https://i.imgur.com/NLwK7Nl.png)
+![Screenshot of a sample output](https://i.imgur.com/NLwK7Nl.png)
+*Screenshot of a sample output*
