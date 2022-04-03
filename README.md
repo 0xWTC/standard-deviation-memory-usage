@@ -18,3 +18,8 @@ Standard deviation is a measure of how far a set of numbers are spread out.
 6. Take the square root of the result
 
 [Standard deviation on Wikipedia](https://en.wikipedia.org/wiki/Standard_deviation)
+
+
+## Output screenshot
+
+![Screenshot of a sample outpue](https://i.imgur.com/NLwK7Nl.png)
